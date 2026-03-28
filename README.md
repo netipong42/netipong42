@@ -17,7 +17,7 @@ I’m a Backend Developer passionate about building scalable systems and solving
 
 <table style="width:100%">
   <tr>
-<td valign="top" width="100%">
+<td valign="top" widt50%">
 
 ### CORE
 <p>
@@ -25,7 +25,7 @@ I’m a Backend Developer passionate about building scalable systems and solving
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
 </p>
 </td>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 
 ### Code Editors
 
@@ -35,7 +35,7 @@ I’m a Backend Developer passionate about building scalable systems and solving
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 </p>
 </td>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 
 ### Software
 <p>
@@ -48,7 +48,7 @@ I’m a Backend Developer passionate about building scalable systems and solving
 </table>
 <table style="width:100%">
   <tr>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 
 ### Backend and Database
 <p>
@@ -57,7 +57,7 @@ I’m a Backend Developer passionate about building scalable systems and solving
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
 </p>
 </td>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 
 ### Frontend
 <p>
@@ -68,7 +68,7 @@ I’m a Backend Developer passionate about building scalable systems and solving
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
 </p>
 </td>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 
 ### Frontend Learning 
 <p>
