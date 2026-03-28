@@ -1,15 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Netipong Phapakdee
-===========================================================================================================================================
+## 👋 Hi, I'm Netipong Phapakdee
+### Backend Developer | Future Fullstack Developer
 
-I enjoy coding and using technology to solve problems. I started coding by participating in an e-commerce website competition in high school, which was a great starting point. Currently, I'm a Backend-Developer and I want to develop myself into a FullStack-Developer.
+I’m a Backend Developer passionate about building scalable systems and solving real-world problems.
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [netipong42@gmail.com](mailto:netipong42@gmail.com)
-* 🧠  I'm currently learning FrontEnd I want to develop myself into a FullStack-Developer.
+- 🌍 Based in Thailand  
+- ✉️ netipong42@gmail.com  
+- 🚀 Currently learning Frontend to become a Fullstack Developer
+
+## 🚀 Projects
+
+- 🛒 E-commerce System (Laravel)
+  - REST API, Payment, Admin Panel
+
+- 📊 Internal Tools (Laravel + SQL Server)
+  - Data management for marketing team
 
 <table style="width:100%">
   <tr>
-<td>
+<td valign="top" width="33%">
 
 ### CORE
 <p>
@@ -17,7 +25,7 @@ I enjoy coding and using technology to solve problems. I started coding by parti
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
 </p>
 </td>
-<td>
+<td valign="top" width="33%">
 
 ### Code Editors
 
@@ -27,7 +35,7 @@ I enjoy coding and using technology to solve problems. I started coding by parti
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 </p>
 </td>
-<td>
+<td valign="top" width="33%">
 
 ### Software
 <p>
@@ -40,7 +48,7 @@ I enjoy coding and using technology to solve problems. I started coding by parti
 </table>
 <table style="width:100%">
   <tr>
-<td>
+<td valign="top" width="33%">
 
 ### Backend and Database
 <p>
@@ -49,7 +57,7 @@ I enjoy coding and using technology to solve problems. I started coding by parti
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
 </p>
 </td>
-<td>
+<td valign="top" width="33%">
 
 ### Frontend
 <p>
@@ -60,7 +68,7 @@ I enjoy coding and using technology to solve problems. I started coding by parti
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
 </p>
 </td>
-<td>
+<td valign="top" width="33%">
 
 ### Frontend Learning 
 <p>
