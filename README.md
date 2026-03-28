@@ -1,35 +1,3 @@
-ProfileMe.dev
-
-
-Introduction
-Skills
-Socials
-Badges
-Support
-Go home
-© 2026 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Support
-Make it easy for people using your products to support you or give donations.
-
-
-Previous
-buymeacoffee
-Buy Me a Coffee:
-yourname
-kofi
-Ko-fi:
-yourname
-
-Previous
-Reorder Sections
-Preview
-Markdown
-Copy
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/netipong42" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
